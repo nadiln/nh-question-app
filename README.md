@@ -13,6 +13,20 @@ A React Native application built with Expo featuring a calculator, responsive na
 
 ## 📱 Screenshots
 
+# Home
+![qapp-home](https://github.com/user-attachments/assets/c1780415-0b9a-4401-a35c-c88e18e1b16f)
+
+# Question 1
+![qapp-q1](https://github.com/user-attachments/assets/90e6c426-5583-496f-a4de-f75c7d66dc2c)
+
+# Question 2
+![qapp-q2](https://github.com/user-attachments/assets/a167c654-367d-4ae2-920e-da7757830db8)
+![qapp-q3](https://github.com/user-attachments/assets/42f1eb59-ffc2-4cbf-b888-47ebaf80047d)
+
+# Question 3
+<img width="542" height="451" alt="question3" src="https://github.com/user-attachments/assets/b3f13b1f-b46e-4ed3-b723-e7bf14b9c06f" />
+
+
 The app includes three main screens accessible via bottom tab navigation:
 - **Home**: Welcome screen with project overview
 - **Calculator**: Functional two-number addition calculator
@@ -214,3 +228,4 @@ If you encounter any issues or have questions:
 ---
 
 **Happy coding! 🎉**
+
